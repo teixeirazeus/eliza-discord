@@ -1,4 +1,4 @@
-
+![banner](https://raw.githubusercontent.com/teixeirazeus/eliza-discord/master/readme_assets/banner.png)
 
 O bot Eliza para Discord é um projeto open-source que traz a famosa ELIZA, um dos primeiros chatbots de psicoterapia, para o ambiente do Discord. Eliza foi criada na década de 1960 por Joseph Weizenbaum como um experimento para simular um terapeuta humano. Este projeto adapta o chatbot ELIZA para funcionar no Discord, permitindo que os usuários interajam com a ELIZA por meio de mensagens diretas ou menções em canais de texto.
 
